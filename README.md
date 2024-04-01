@@ -1,7 +1,7 @@
 <i><h1> To-Do List Application 📜</h1>
 Welcome to the **To-Do List Application!** This application helps you manage your tasks efficiently by providing a simple interface to create,add more and organize your to-do items.
 
-### Features ✨
+<h1>Features ✨</h1>
  
 - **Add Tasks**:  Easily add new tasks to your to-do list.
 - **Add More Task**: It will ask user to add more task. User will answers in **Yes** or **No** 
