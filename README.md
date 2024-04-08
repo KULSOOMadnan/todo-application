@@ -10,7 +10,6 @@ Welcome to the **To-Do List Application!** This application helps you manage you
 - **Data Persistence**:  Your to-do list is automatically saved .and print all task vertically
 
 
-
 ## npm Usage 🎯
 you can also install this package from npm command is **npm i to-do-list-application1** and CLI (command line Interface) runner is **npx to-do-list-application1**
 
