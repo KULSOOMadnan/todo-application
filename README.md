@@ -19,6 +19,6 @@ you can also install this package from npm command is **npm i to-do-list-applica
 ## Technology used 💻
  i create ths todos with the help of **Tpyescript , inquirer and Node.js**
 
-## lisence 
+## lisence 💾
 This project is licensed under the **ISC License**.
 <h2> Thank you ❣️</h2></i>
